@@ -1,0 +1,5 @@
+create table t1(id int,name char(20) unique,age int,salary float,primary key(id));
+create table t2(num1 int,num2 int,primary key(num1));
+
+
+
